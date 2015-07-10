@@ -1,0 +1,402 @@
+[22-Feb-2015 23:11:13 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home3/codebrew/public_html/projects/recipe/admin/eventHandler.php on line 483
+[24-Feb-2015 23:53:18 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/codebrew/public_html/projects/recipe/admin/list_recipe_details.php on line 85
+[25-Feb-2015 01:31:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/codebrew/public_html/projects/recipe/admin/sidebar.php:66) in /home3/codebrew/public_html/projects/recipe/admin/aisle.php on line 2
+[25-Feb-2015 01:31:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/sidebar.php:66) in /home3/codebrew/public_html/projects/recipe/admin/aisle.php on line 43
+[25-Feb-2015 01:34:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/index.php:50) in /home3/codebrew/public_html/projects/recipe/admin/head.php on line 37
+[25-Feb-2015 01:34:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/index.php:50) in /home3/codebrew/public_html/projects/recipe/admin/script.php on line 39
+[25-Feb-2015 01:35:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/index.php:50) in /home3/codebrew/public_html/projects/recipe/admin/head.php on line 37
+[25-Feb-2015 01:35:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/index.php:50) in /home3/codebrew/public_html/projects/recipe/admin/script.php on line 39
+[25-Feb-2015 01:35:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/index.php:50) in /home3/codebrew/public_html/projects/recipe/admin/head.php on line 37
+[25-Feb-2015 01:35:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/index.php:50) in /home3/codebrew/public_html/projects/recipe/admin/script.php on line 39
+[25-Feb-2015 01:36:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/index.php:50) in /home3/codebrew/public_html/projects/recipe/admin/head.php on line 37
+[25-Feb-2015 01:36:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/index.php:50) in /home3/codebrew/public_html/projects/recipe/admin/script.php on line 39
+[25-Feb-2015 01:37:12 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/codebrew/public_html/projects/recipe/admin/sidebar.php:66) in /home3/codebrew/public_html/projects/recipe/admin/aisle.php on line 2
+[25-Feb-2015 01:37:12 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/sidebar.php:66) in /home3/codebrew/public_html/projects/recipe/admin/aisle.php on line 43
+[25-Feb-2015 01:39:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/index.php:50) in /home3/codebrew/public_html/projects/recipe/admin/head.php on line 37
+[25-Feb-2015 01:39:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/index.php:50) in /home3/codebrew/public_html/projects/recipe/admin/head.php on line 37
+[25-Feb-2015 01:39:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/index.php:50) in /home3/codebrew/public_html/projects/recipe/admin/head.php on line 37
+[25-Feb-2015 01:41:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/index.php:50) in /home3/codebrew/public_html/projects/recipe/admin/head.php on line 37
+[25-Feb-2015 05:58:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 8
+[25-Feb-2015 05:59:16 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 8
+[25-Feb-2015 05:59:42 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 8
+[25-Feb-2015 05:59:46 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 8
+[25-Feb-2015 05:59:50 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 8
+[25-Feb-2015 05:59:55 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 8
+[25-Feb-2015 06:00:01 America/Chicago] PHP Parse error:  syntax error, unexpected '$sql' (T_VARIABLE) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 8
+[25-Feb-2015 06:14:44 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '{''}' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:12
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 12
+[25-Feb-2015 06:21:27 America/Chicago] PHP Fatal error:  Call to a member function bindValue() on a non-object in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 9
+[25-Feb-2015 06:27:17 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '()' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:13
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 13
+[25-Feb-2015 06:29:10 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'recipe_id' in 'where clause'' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:13
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 13
+[25-Feb-2015 06:29:40 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'recipe_id' in 'where clause'' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:13
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 13
+[25-Feb-2015 06:29:48 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'recipe_id' in 'where clause'' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:13
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 13
+[25-Feb-2015 06:31:04 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'recipe_id' in 'where clause'' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:13
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 13
+[25-Feb-2015 06:38:21 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'recipe_id' in 'where clause'' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:17
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 17
+[25-Feb-2015 06:39:01 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'recipe_id' in 'where clause'' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:17
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 17
+[25-Feb-2015 06:39:11 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'recipe_id' in 'where clause'' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:17
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 17
+[25-Feb-2015 22:31:12 America/Chicago] PHP Parse error:  syntax error, unexpected '>' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 64
+[25-Feb-2015 22:33:36 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 65
+[25-Feb-2015 22:34:27 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 65
+[25-Feb-2015 22:34:33 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 65
+[25-Feb-2015 22:35:47 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 65
+[25-Feb-2015 22:35:50 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 65
+[25-Feb-2015 22:35:53 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 65
+[25-Feb-2015 22:36:13 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 65
+[25-Feb-2015 22:38:21 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 67
+[25-Feb-2015 22:38:26 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 67
+[25-Feb-2015 22:38:29 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 67
+[25-Feb-2015 22:43:11 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 68
+[25-Feb-2015 22:44:25 America/Chicago] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 68
+[25-Feb-2015 22:45:45 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 70
+[25-Feb-2015 23:18:56 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:21
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(21): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 21
+[25-Feb-2015 23:20:05 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:21
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(21): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 21
+[25-Feb-2015 23:22:14 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:21
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(21): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 21
+[25-Feb-2015 23:22:21 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:21
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(21): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 21
+[25-Feb-2015 23:23:50 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:22
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 22
+[25-Feb-2015 23:24:25 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:22
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 22
+[25-Feb-2015 23:24:29 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where 1' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:22
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 22
+[25-Feb-2015 23:27:24 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:22
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 22
+[25-Feb-2015 23:27:54 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:22
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 22
+[25-Feb-2015 23:28:28 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:21
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(21): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 21
+[25-Feb-2015 23:44:23 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:22
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 22
+[25-Feb-2015 23:44:38 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php:22
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php(22): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 22
+[25-Feb-2015 23:52:09 America/Chicago] PHP Parse error:  syntax error, unexpected '&' in /home3/codebrew/public_html/projects/recipe/admin/list_recipes.php on line 89
+[26-Feb-2015 01:41:35 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and 1' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php:20
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php(20): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php on line 20
+[26-Feb-2015 01:42:18 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and 1' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php:16
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php on line 16
+[26-Feb-2015 01:42:20 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and 1' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php:16
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php on line 16
+[26-Feb-2015 01:42:24 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and 1' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php:16
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php on line 16
+[26-Feb-2015 01:43:12 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and 1' at line 1' in /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php:16
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_aisle.php on line 16
+[16-Mar-2015 05:07:27 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home3/codebrew/public_html/projects/recipe/admin/dashboard.php on line 115
+[16-Mar-2015 05:25:22 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'codebrew_recipe.userss' doesn't exist' in /home3/codebrew/public_html/projects/recipe/admin/list_users.php:19
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_users.php(19): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_users.php on line 19
+[17-Mar-2015 06:38:52 America/Chicago] PHP Warning:  stripos() expects at least 2 parameters, 1 given in /home3/codebrew/public_html/projects/recipe/admin/sidebar.php on line 31
+[17-Mar-2015 07:43:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/codebrew/public_html/projects/recipe/admin/sidebar.php on line 28
+[17-Mar-2015 07:43:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/codebrew/public_html/projects/recipe/admin/sidebar.php on line 28
+[17-Mar-2015 07:43:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/codebrew/public_html/projects/recipe/admin/sidebar.php on line 28
+[17-Mar-2015 07:43:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/codebrew/public_html/projects/recipe/admin/sidebar.php on line 28
+[17-Mar-2015 23:26:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home3/codebrew/public_html/projects/recipe/admin/sidebar.php on line 44
+[17-Mar-2015 23:26:50 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home3/codebrew/public_html/projects/recipe/admin/sidebar.php on line 44
+[17-Mar-2015 23:27:02 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home3/codebrew/public_html/projects/recipe/admin/sidebar.php on line 44
+[25-Mar-2015 01:00:44 America/Chicago] PHP Notice:  Undefined index: id in /home3/codebrew/public_html/projects/recipe/admin/eventHandler.php on line 9
+[25-Mar-2015 01:00:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/codebrew/public_html/projects/recipe/admin/eventHandler.php:9) in /home3/codebrew/public_html/projects/recipe/admin/eventHandler.php on line 237
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:40:10 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 79
+[26-Mar-2015 02:56:05 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'codebrew_recipe.Ingredients' doesn't exist' in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php:35
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php(35): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 35
+[26-Mar-2015 05:16:52 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'title' in where clause is ambiguous' in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php:18
+Stack trace:
+#0 /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home3/codebrew/public_html/projects/recipe/admin/list_ingredients.php on line 18
+[28-Mar-2015 05:27:23 America/Chicago] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home3/codebrew/public_html/projects/recipe/admin/eventHandler.php on line 301
+[28-Mar-2015 05:32:21 America/Chicago] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) or '$' in /home3/codebrew/public_html/projects/recipe/admin/eventHandler.php on line 285
+[28-Mar-2015 05:54:42 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home3/codebrew/public_html/projects/recipe/admin/eventHandler.php on line 259
+[28-Mar-2015 05:55:36 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home3/codebrew/public_html/projects/recipe/admin/eventHandler.php on line 259
+[28-Mar-2015 05:55:48 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home3/codebrew/public_html/projects/recipe/admin/eventHandler.php on line 259
+[28-Mar-2015 05:56:30 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home3/codebrew/public_html/projects/recipe/admin/eventHandler.php on line 259
+[28-Mar-2015 06:57:11 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/codebrew/public_html/projects/recipe/admin/eventHandler.php on line 257
+[07-Apr-2015 02:02:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting ',' or ';' in /home3/codebrew/public_html/projects/recipe/admin/edit_aisle_ingre.php on line 10
